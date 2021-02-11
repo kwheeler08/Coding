@@ -1,0 +1,4 @@
+An opening tag <h2>, and a closing tag </h2>. Changing the content between the tags, changes it on the page as well.
+Code headlines range from h1 being the biggest, to h6. Though there is also a separate tag for paragraphs.
+HTML comments are coded by using an '!' and two dashes in the opening section of the tag, but are not closed. The content between them is included.
+<!--This is a comment-->
